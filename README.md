@@ -1,1 +1,1 @@
-Here's my new template project, but it's nothing now
+Here's my new template project, but do'nt have anything here now ;(
