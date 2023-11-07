@@ -24,7 +24,7 @@ If you're on the same journey or interested in collaborating on a project, don't
 
 ## Stats 📈
 
-![Fooyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fooyer&show_icons=true&theme=radical)
+![Fooyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fooyer&show_icons=true&theme=dark)
 
 Thank you for stopping by, and I hope you enjoy exploring my work!
 
