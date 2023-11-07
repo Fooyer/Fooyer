@@ -24,7 +24,8 @@ If you're on the same journey or interested in collaborating on a project, don't
 
 ## Stats 📈
 
-![Fooyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fooyer&hide_rank=true&hide_border=true&bg_color=0f131a&title_color=f05454&text_color=dddddd)
+![Fooyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fooyer&hide_rank=true&hide_border=true&bg_color=0f131a&title_color=f05454&text_color=dddddd) 
+![Fooyer's GitHub stats2](https://github-readme-stats.vercel.app/api/top-langs?username=Fooyer&layout=compact&hide_border=true&bg_color=0f131a&title_color=f05454&text_color=dddddd)
 
 Thank you for stopping by, and I hope you enjoy exploring my work!
 
