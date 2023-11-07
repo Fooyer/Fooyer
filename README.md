@@ -13,7 +13,7 @@ Feel free to explore, fork, and star if you find something interesting!
 - **Languages**: Python, JavaScript, TypeScript, PHP and SQL
 - **Frameworks**: React, Node.js
 - **Tools**: Git
-- **Interests**: Open-source contribution, Freelancers
+- **Interests**: Open-source contribution, Freelance
 
 ## Let's Connect! 🌐
 
